@@ -2,7 +2,7 @@
 This is a lecture I taught (in French) to 3rd year bachelor psychology students at Aix-Marseille University between February and April 2020. 
 
 The lecture is derived across 3 courses (one .pdf file for each). 
-At the end of the 3rd course, students were instructed to install psychopy (Pierce, 2007) and run the experiment contained in the "PosnerTask" folder. This experiment is an adaptation of a task by Posner and Mitchell (1967) made in collaboration with [https://lpc.univ-amu.fr/fr/profile/alario-francois-xavier](François-Xavier Alario).
+At the end of the 3rd course, students were instructed to install psychopy (Pierce, 2007) and run the experiment contained in the "PosnerTask" folder. This experiment is an adaptation of a task by Posner and Mitchell (1967) made in collaboration with [François-Xavier Alario](https://lpc.univ-amu.fr/fr/profile/alario-francois-xavier).
 
 The task was choosen and implemented to give students a sense of the importance of experimental choices such as counterbalancing conditions, choosing a dependent variable, number of participants/trials, etc. The students were assigned a certain order of counterbalance of the conditions and the same number of participants and trials. 
 
