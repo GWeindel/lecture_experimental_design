@@ -1,0 +1,17 @@
+task,N,Left,Right,Expected
+training,1,1,1,same
+training,2,2,2,same
+training,3,4,4,same
+training,4,8,8,same
+training,5,1,1,same
+training,6,2,2,same
+training,7,4,4,same
+training,8,8,8,same
+training,9,1,4,different
+training,10,2,4,different
+training,11,4,8,different
+training,12,8,1,different
+training,13,1,8,different
+training,14,2,1,different
+training,15,4,2,different
+training,16,8,2,different
